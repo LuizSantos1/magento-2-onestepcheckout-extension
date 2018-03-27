@@ -1,6 +1,8 @@
 
-## OVERVIEW
+![ecomteck one step checkout](https://ecomteck.com/wp-content/uploads/2018/03/pv-one-step-checkout.jpg)
 
+
+## OVERVIEW
 Purchasing Magento 2 One Step Checkout immediately to place all checkout steps on one page to speed up the whole shopping process and significantly enhance your customer satisfaction. Boost your sales considerably along with increasing extensively conversion rate, decreasing large amount of abandonment card & most importantly is  **FAST & SAVE**  checkout time. Let's look at these powerful functions  **Magento 2 One Step Checkout**  can do for your store:
 
 -   75% faster than default checkout
